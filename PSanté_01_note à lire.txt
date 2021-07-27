@@ -1,0 +1,4 @@
+1. telecharger le dataset en csv sur https://world.openfoodfacts.org/data
+2. place sur le dossier courant et change le lien sur le read csv
+3. Lancer Alimentez_Moi_Final_Nettoyage.ipynb pour le nettoyage
+4. lancer Alimentez_Moi_Final_EDA.ipynb pour l'analyse exploratoire
