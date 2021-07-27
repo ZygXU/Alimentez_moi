@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://lh3.googleusercontent.com/proxy/7_O5tRiXBZeIdwkRXSxxeKBwj5DOYdiWzq9Fke7TNVnV3ExokSh8oVXuf1pEy83d8WdszcoNGIDLBM9am0gQUexeY0YIUY5RjeIWaWQbNy8XFOcViQcvyzeA0NQ9toOZ9QzNpOy_anSP)
+![alt text](https://www.codes06.org/d/YTozOntzOjQ6InJlZjAiO2k6MTtzOjQ6InJlZjEiO3M6MzoiMjg0IjtzOjQ6InJlZjIiO3M6MDoiIjt9/logo-sante-publique-france)
 
 
 ## Description
